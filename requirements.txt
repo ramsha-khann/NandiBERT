@@ -1,0 +1,9 @@
+torch>=2.2
+transformers>=5.0
+datasets>=2.18,<4.0
+accelerate>=0.30
+scikit-learn>=1.4
+seqeval>=1.2.2
+numpy>=1.26
+pandas>=2.0
+tqdm>=4.66
